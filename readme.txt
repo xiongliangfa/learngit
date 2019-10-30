@@ -6,3 +6,7 @@ Creating a new branch is quick and simple.
 add……
 this is bugfix
 
+bugfix 11
+bugfix 12
+bugfix14
+
